@@ -41,7 +41,7 @@ public class Leetcode44 {
 
     public static void main(String[] args){
         Solution solution = new Solution();
-        System.out.println(solution.isMatch("", ""));
+        System.out.println(solution.comparison("", ""));
     }
 }
 
